@@ -1,0 +1,41 @@
+.container{
+	flex-direction: row;
+}
+
+body{
+	font-family: 'Lucida Grande', sans-serif;
+}
+
+.title-super{
+	font-size: 47px;
+	color: #666666;
+}
+
+.title-subtitle{
+	color: #f07c17;
+	font-size: 24px;
+}
+
+.col-md-12{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+.border-box{
+	border: 1px solid #cccccc !important;
+	padding-left: 30px;
+	padding-top: 22px;
+}
+
+p {
+	line-height: 37px;
+}
+
+li{
+	line-height: 38px;
+}
+
+.mugshot{
+	margin-bottom: 20px;
+	margin-top: 15px;
+}
